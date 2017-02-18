@@ -7,6 +7,7 @@ Well what can I say, GSOC which stands for Google Summer Of Code is something I 
 ##What is GSOC ?
 *GSOC is like a gatway drug for Open Source Communinty*
 gsoc is a global event organized by Google to help Open Source community by helping Students to make that sweeet transition from Student to a Contributor contributing for Open Source projects. It is a gateway or kind of a spring for students to give something for the communinty and at the same time get some experiance. Of course you can contribute to Open Source projects without GSOC but hey where is all the fun in it !. GSOC also pay a small snippet for Students who partisipate GSOC, *so they don't have to work somewhere else in the summer*. simply:
+
 * Orgaizations register on GSOC with their Open Source projects
 * These Organizzations provide Mentors for GSOC Students
 * Orgainsations have Idea lists, which you should check out and make your proposals
