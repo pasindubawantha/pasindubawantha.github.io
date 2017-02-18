@@ -248,3 +248,15 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+iframe {
+    border-style: none;
+    box-shadow: 1px 1px 40px #000;
+    width: 110%;
+}
+    
+@media screen and (max-width: 320px) {
+  iframe {
+    width:auto;
+}
+}
