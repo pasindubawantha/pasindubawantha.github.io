@@ -2,4 +2,19 @@
 layout: default
 title: example-proposal
 ---
-<iframe src="https://docs.google.com/document/d/1W5Mnf4w94i6K_NGsne7wsSyTXJUeNIusJMZ_C-TdeAc/pub?embedded=true"></iframe>
+<script>
+  function resizeIframe(obj) {
+    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
+  }
+</script>
+
+<iframe src="https://docs.google.com/document/d/1W5Mnf4w94i6K_NGsne7wsSyTXJUeNIusJMZ_C-TdeAc/pub?embedded=true" onload="resizeIframe(this)"></iframe>
+
+
+<style>
+iframe {
+    border-style: none;
+    box-shadow: 1px 1px 40px #000;
+    width: 110%;
+}
+</style>
