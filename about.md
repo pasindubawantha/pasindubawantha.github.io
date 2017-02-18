@@ -3,28 +3,18 @@ layout: page
 title: About
 ---
 
+---
+layout: page
+title: About
+---
 <p class="message">
- This blog was created with primarly objective being, publishing my GSOC work. I was not the "blogging" type untill now. Well who knows where we will end up from here. 
+*thou shalt blog about their work* - said some wise elder of THE INTERNEt
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+##About this blog
+This blog was created with primarly objective being, publishing my GSOC work. I was not the "blogging" type untill now. Well who knows where we will end up from here.
 
-There are currently two themes built on Poole:
+Not to mention this blog is hosted on Github using [jekyll](https://jekyllrb.com/). and I'm using theme named [hyde](http://hyde.getpoole.com). Want to know how to get your own jekyll blog, try [jekyll-now](https://github.com/barryclark/jekyll-now) on Github
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+##About me
+Well I'm a normal fellow studying and experimenting in the *crafts and sciences of Computing*. Intreted in Machine Leraring (*Bunch of matrix multimplications interprited in a weired way*) , Networks and Computer Systems. and Economics. That is a weired combo, I know.
