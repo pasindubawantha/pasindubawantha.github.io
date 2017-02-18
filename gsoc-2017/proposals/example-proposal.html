@@ -3,13 +3,8 @@ layout: default
 title: example-proposal
 ---
 
-<script>
-  function resizeIframe(obj) {
-    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
-  }
-</script>
 
-<iframe src="https://docs.google.com/document/d/1W5Mnf4w94i6K_NGsne7wsSyTXJUeNIusJMZ_C-TdeAc/pub?embedded=true" onload="resizeIframe(this)"></iframe>
+<iframe src="https://docs.google.com/document/d/1W5Mnf4w94i6K_NGsne7wsSyTXJUeNIusJMZ_C-TdeAc/pub?embedded=true" onload="this.style.height=this.contentDocument.body.scrollHeight +'px';"></iframe>
 
 
 <style>
