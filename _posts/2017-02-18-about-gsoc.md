@@ -29,3 +29,4 @@ ofcourse this blog post is for Students (as I'm a *Student* too)
 
 have issues with GitHub check their [Help](https://help.github.com/) page.
 have no idea what Git or GitHub is these [guides](https://guides.github.com/) might help.
+hear is a good [guide](https://www.quora.com/How-should-one-select-a-project-for-GSoC/answer/Aditya-Chaturvedi-3) how to pick a gsoc project 
