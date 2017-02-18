@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Lets Blogg It
-tagline:          'A Blog for GSOC'
-description:      "What can I say it's a blog, check <a href='https://pasindubawantha.github.io/about' target='_blank'>About</a> page for details."
+title:            Lets Blog It
+tagline:          'Blogging for the sake of it'
+description:      "What can I say, it's a blog."
 url:              https://pasindubawantha.github.io/about
 baseurl:          /
 
