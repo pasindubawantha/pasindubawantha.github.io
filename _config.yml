@@ -9,7 +9,7 @@ relative_permalinks: false
 # Setup
 title:            Lets Blogg It
 tagline:          'A Blog for GSOC and beyond'
-description:      'This blog was created with primarly objective being, publishing my GSOC work. I was not the "blogging" type untill now. Well who knows where we will end up from here. '
+description:      'Well it's a blog what can I say. check the <a href="http://pasindubawantha.github.io/about" target="_blank">About</a> page for more details'
 url:              http://pasindubawantha.github.io
 baseurl:          /
 
