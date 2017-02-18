@@ -10,7 +10,7 @@ relative_permalinks: false
 title:            Lets Blogg It
 tagline:          'A Blog for GSOC'
 description:      "What can I say it's a blog, check <a href='https://pasindubawantha.github.io/about' target='_blank'>About</a> page for details."
-url:              http://hyde.getpoole.com
+url:              https://pasindubawantha.github.io/about
 baseurl:          /
 
 author:
