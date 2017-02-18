@@ -2,11 +2,6 @@
 layout: page
 title: About
 ---
-
----
-layout: page
-title: About
----
 <p class="message">
 *thou shalt blog about their work* - said some wise elder of THE INTERNEt
 </p>
