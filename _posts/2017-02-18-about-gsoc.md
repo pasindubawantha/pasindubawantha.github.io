@@ -13,20 +13,23 @@ gsoc is a global event organized by Google to help Open Source community by help
 * Orgainsations have Idea lists, which you should check out and make your proposals
 
 Here is the list of Organisations who partisipated [GSOC 2016](https://summerofcode.withgoogle.com/archive/2016/organizations/) 
-
+Here is the [time-line](https://summerofcode.withgoogle.com/how-it-works/)for GSOC
 
 *Well enough with all the chitchat, lets get on to buissness.*
 
 ##How to become a GSOC Intern
 ofcourse this blog post is for Students (as I'm a *Student* too)
 
+* Read the [GSOC Manuel for students](https://developers.google.com/open-source/gsoc/resources/manual) *very important*
 * Find an Organisation which intrests you (when they are anounced or if you are starting early check past Organizations participated GSOC)
 * Check their Idea page
 * Differernt Organizations have different instructions on what to do, if you want to chosed as one of GSOC interns 
 * Can't find a project proposal template, check old projects they have done for GSOC. see how past students have prepared their proposals.
 * get into their dev Mailing List and IRC
 * if there are any initial reqirements like pushing commits for their projects, *well do them*
+* If you have a problem check all guides 
 
 have issues with GitHub check their [Help](https://help.github.com/) page.
 have no idea what Git or GitHub is these [guides](https://guides.github.com/) might help.
+another [guide](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github) of how to contribute for open source projects  
 hear is a good [guide](https://www.quora.com/How-should-one-select-a-project-for-GSoC/answer/Aditya-Chaturvedi-3) how to pick a gsoc project 
