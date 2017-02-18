@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 <p class="message">
-*thou shalt blog about their work* - said some wise elder of THE INTERNEt
+thou shalt blog about their work - said some wise elder of THE INTERNET
 </p>
 
 ##About this blog
