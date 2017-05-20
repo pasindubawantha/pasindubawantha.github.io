@@ -5,10 +5,16 @@
     * if last command didn't work do it manually using vim
   * ```sudo apt-get update```
   * ```sudo apt-get install odoo```
-  * ```ssudo apt-get install wkhtmltopdf```
-  * ```sudo service odoo start```
+  * ```sudo apt-get install wkhtmltopdf```
+  * ```sudo apt-get remove wkhtmltopdf``` to get dependancies 
   * do this to get wkhtmltopdf to work [link](https://github.com/odoo/odoo/wiki/Wkhtmltopdf)
+   * user ```sudo dpkg -i file.deb``` 
+  * ```sudo service odoo start```
 
+
+* to get odoo running on port 80 reroute 80 to 8069
+  * edit ```/etc/rc.local``` include ```iptables -t nat -A PREROUTING -p tcp --dport 80 -j REDIRECT --to-port 8069``` then reboot
+* to check logs ``` sudo more /var/log/odoo/odoo-server.log```
 
 My options in /etc/odoo/odoo.conf
 ```
@@ -20,7 +26,6 @@ db_port = False
 db_user = odoo
 db_password = False
 addons_path = /usr/lib/python2.7/dist-packages/odoo/addons
-xmlrpc_port = 80
 workers = 3
 limit_memory_hard = 943718400
 limit_memory_soft = 838860800
