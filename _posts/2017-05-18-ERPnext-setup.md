@@ -8,7 +8,7 @@
   * sudo service odoo start
 
 
-...MY options in /etc/odoo/odoo.conf..
+My options in /etc/odoo/odoo.conf
 ```
 [options]
 ; This is the password that allows database operations:
