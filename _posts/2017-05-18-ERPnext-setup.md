@@ -8,7 +8,8 @@
   * sudo service odoo start
 
 
-MY options in /etc/odoo/odoo.conf 
+...MY options in /etc/odoo/odoo.conf..
+```
 [options]
 ; This is the password that allows database operations:
 ; admin_passwd = admin
@@ -21,7 +22,7 @@ mlrpc_port = 80
 workers = 3
 limit_memory_hard = 943718400
 limit_memory_soft = 838860800
-
+```
 
 workers = (#CPU * 2) + 1
 Needed RAM = #worker * ( (light_worker_ratio * light_worker_ram_estimation) + (heavy_worker_ratio * heavy_worker_ram_estimation) )
