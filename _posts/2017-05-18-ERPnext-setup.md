@@ -17,6 +17,7 @@
 * to check logs ``` sudo more /var/log/odoo/odoo-server.log```
 
 My options in /etc/odoo/odoo.conf
+use deafult settings these are unstable
 ```
 [options]
 ; This is the password that allows database operations:
